@@ -1,6 +1,6 @@
 # AtmosFC
 
-<p align="center"> <img src="documentation/logo/atmos_fc/fc_logo_black-bg.png" alt="AtmosFC Logo" /> </p> 
+<p align="center"> <img src="documentation/logo/atmos_fc_logo_black_bg.png" alt="AtmosFC Logo" /> </p> 
 
 AtmosFC is an open-hardware quadcopter flight controller designed in KiCad. Powered by an STM32G4 MCU, it integrates high-performance sensors and peripherals, and is fully compatible with Betaflight (≥ 4.5).
 
